@@ -39,6 +39,7 @@ p {
   table, th, td {
     border: 2px solid black;
     border-collapse: collapse;
+    width: 90%;
     margin-left: 0 auto;
     margin-right: 0 auto;
     padding: 10px;
